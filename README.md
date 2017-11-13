@@ -14,6 +14,7 @@ Allow copy positions from trader account to multiple clients accouns with multip
 * Allow change timer to milliseconds (1 to 1000ms)
 * Equity StopLoss (Close all positions and stop cBot)
 
+
 ### Requires
 * cTrader or cAlgo platform
 * Mysql database server https://dev.mysql.com/downloads/installer/
